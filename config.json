@@ -1,5 +1,6 @@
 {
     "tokenID" : "your-token-id",
     "clientID" : "your-client-id",
-    "guildID" : "your-guild-id"
+    "guildID" : "your-guild-id",
+    "apiKey" : "your-api-key"
 }
